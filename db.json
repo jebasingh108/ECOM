@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPmfjaZMuKlt1nN9aGY0iCWbkXKtuRf2h3Q&s",
+      "title": "HOME DECOR PLANT",
+      "price": "Rs:150",
+      "about": "Our home decor plants are selected to enhance any interior space with their beauty and charm, providing a stylish touch to your home.",
+      "id": "b9c8"
+    },
+    {
+      "image": "https://m.media-amazon.com/images/I/511mWek7ciL.jpg",
+      "title": "JASMINE PLANT",
+      "about": "Enhance your home with the Jasmine Plant's beautiful white flowers and captivating fragrance, perfect for adding elegance and a soothing atmosphere to any space.",
+      "price": "Rs:100",
+      "id": "1ef2"
+    },
+    {
+      "image": "https://stage.ultimagardening.com/wp-content/uploads/2021/10/05-Ultima-Gardening-Nursery-Shop-Money-Plant-Green-2021-10-08T113708.415-540x680.png",
+      "title": "INDOOR PLANT",
+      "about": "Transform your living space with our Indoor Plant, designed to add a touch of greenery and elegance while improving air quality and creating a calming atmosphere.",
+      "price": "Rs:250",
+      "id": "0ea7"
+    },
+    {
+      "image": "https://preview.redd.it/7cjrlodj36091.jpg?auto=webp&s=351a7db22a0bb23f4b4076b0eff9c350ea85a746",
+      "title": "ADENIUM PLANT",
+      "about": "Bring a burst of color and exotic charm to your home with the Adenium Plant, known for its striking blooms and unique, sculptural trunk.",
+      "price": "Rs:150",
+      "id": "d3a5"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/%22Meillandine%22_Rose_in_clay_pot.jpg",
+      "title": "ROSE PLANT",
+      "about": "Enhance your home with the timeless beauty and delightful fragrance of our Rose Plant, perfect for adding elegance and charm to any space.",
+      "price": "Rs:200",
+      "id": "b9ac"
+    },
+    {
+      "image": "https://vietnamcdm.com/wp-content/uploads/2023/02/plant-flowering-hanging-basket-1315962-hero-754aed93d51745c3b59e3ceca8470fbe-1-edited.jpg",
+      "title": "HANGING FLOWERS",
+      "about": "Elevate your decor with our Hanging Flowers, perfect for adding vibrant color and natural beauty to any indoor or outdoor space.",
+      "price": "Rs:120",
+      "id": "06dd"
+    },
+    {
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-e9ee10d08adf00a5b574fb3cfc7d0aa4.webp",
+      "title": "JASMINE PLANT",
+      "about": "Elevate your decor with our Hanging Flowers, perfect for adding vibrant color and natural beauty to any indoor or outdoor space.",
+      "price": "Rs:50",
+      "id": "bcbb"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_M197M9ZQsNd7n5IAjT9yePzdXVCP6J-5CQ&s",
+      "title": "BONSAI",
+      "about": "Elevate your decor with our Hanging Flowers, perfect for adding vibrant color and natural beauty to any indoor or outdoor space.",
+      "price": "Rs:500",
+      "id": "8c32"
+    },
+    {
+      "image": "https://www.thespruce.com/thmb/JToiCM2g8ssRFBOyIvvB_G5pMDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/snake-plant-care-overview-1902772-04-d3990a1d0e1d4202a824e929abb12fc1-349b52d646f04f31962707a703b94298.jpeg",
+      "title": "SNAKE PLANT",
+      "about": "Elevate your decor with our Hanging Flowers, perfect for adding vibrant color and natural beauty to any indoor or outdoor space.",
+      "price": "Rs:170",
+      "id": "ea71"
+    },
+    {
+      "image": "https://images.meesho.com/images/products/213160865/zja41_512.webp",
+      "title": "GODECOR LEAF PLANT",
+      "about": "Elevate your decor with our Hanging Flowers, perfect for adding vibrant color and natural beauty to any indoor or outdoor space.",
+      "price": "Rs:100",
+      "id": "59a9"
+    }
+  ],
+  "cart": [
+    {
+      "id": "0ea7",
+      "image": "https://stage.ultimagardening.com/wp-content/uploads/2021/10/05-Ultima-Gardening-Nursery-Shop-Money-Plant-Green-2021-10-08T113708.415-540x680.png",
+      "title": "INDOOR PLANT",
+      "price": "Rs:250",
+      "about": "Transform your living space with our Indoor Plant, designed to add a touch of greenery and elegance while improving air quality and creating a calming atmosphere.",
+      "quantity": 1
+    }
+  ]
+}

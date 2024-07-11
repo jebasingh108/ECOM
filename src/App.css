@@ -1,0 +1,191 @@
+
+.container-fluid{
+    /* background-color: red; */
+    /* height: 150px; */
+    /* font-size: x-large;*/
+    gap: 200px;  
+}
+.navbar-brand{
+    font-size: 100px;
+    font-family:fantasy;
+    color: rgb(3, 70, 3);
+    /* color: blueviolet; */
+}
+.marquee h1 {
+            display: inline-block;
+            /* padding-left: 100%; */
+            animation: marquee 2s linear infinite;
+        }
+img{
+    height: 300px;
+    width: 250px !important;
+    
+}
+.card-img-top{
+    height: 300px;
+    width: 292px !important;
+}
+.cart-img{ 
+    height: 250px !important;
+    width: 250px !  important;
+    filter: drop-shadow(1px 1px 20px green);
+} 
+.row{
+    /* gap: 5px; */
+}
+.product-text{
+    text-align: center;
+    color: rgb(29, 34, 26);
+
+}
+
+.products{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 20px;
+    /* background-color: red; */
+    /* gap: 10px !important; */
+   
+  
+   
+}
+.products:hover{
+    transform: rotateX(7deg) translateY(-6px)
+}
+.background{
+    /* background-color: rgb(35, 33, 33); */
+    /* color: rgb(16, 8, 244); */
+    background-color: rgb(28, 236, 13);
+}
+.gap{
+    height: 30px;
+}
+.cartlogo{
+    font-size: 70px;
+    color: black;
+}
+.aboutpage{
+    background-color: rgb(230, 228, 228);
+    /* height: 300px; */
+    
+}
+.aboutpage h1{
+    text-align: center;
+    font-weight: 800;
+}
+.aboutpage h5{
+    opacity: 0.5;
+}
+.footer{
+    background-color: rgb(60, 60, 234);
+    height: 300px;
+    color: white;
+   
+}
+.footer-alignment{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.footer-icons{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    font-size: 25px;
+}
+.contact-text{
+    text-align: center;
+}
+.cart-card{
+    border: 2px solid black;
+    display: flex;
+    /* width: 900px; */
+ 
+    
+}
+.cart-card1{
+    background-color: none !important;
+}
+
+ 
+
+
+
+.cart{
+  
+    /* background-color: red;    ; */
+    margin-bottom: 20px;
+    
+}
+.cart-img{
+   
+    width: 100% !important;
+    height: 497px !important;
+}
+.cart-background{
+  
+    /* background-image: url(./asserts/cart\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background: rgb(200,53,215);
+background: linear-gradient(90deg, rgba(200,53,215,1) 0%, rgba(96,35,206,1) 100%);
+    
+    
+}
+.card-title{
+    font-size: 25px;
+    font-weight: 500px !;
+}
+.card-text{
+    font-size: 25px;
+}
+.count-div{
+    height: 30px;
+    width: 100px;
+    background-color: red;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.head-image{
+    background-image: url(./asserts/gardening.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.image-flex{
+  
+    color: rgb(55, 18, 18)  ;
+    margin: 0 auto;
+    margin-top: 180px;
+    backdrop-filter: blur(30px);
+    box-shadow: rgba(136, 165, 191, 0.48) 6px 2px 16px 0px, rgba(0, 0, 0, 0.8) -6px -2px 16px 0px;
+    border-radius: 40px;
+}
+.image-flex p{
+    font-size:25px;
+    text-align: center;
+    padding: 10px;
+}
+
+.card{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.cart-button{
+    padding: 20px;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    /* background-color: black; */
+    
+}
+.button-remove{
+    height: 50px;
+    width: 250px;
+    font-size:x-large;
+}
+
